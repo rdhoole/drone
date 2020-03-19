@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# Ryan Hoole
+
 print("Starting...")
 
 from board import SCL, SDA
