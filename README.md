@@ -11,7 +11,6 @@ It uses:
 - [MPL3115A2 - I2C Barometric Pressure/Altitude/Temperature Sensor](https://www.adafruit.com/product/1893)
 
 Example of progress:
- 1. [Telemetry](https://www.youtube.com/watch?v=Ij3bfACrW_U)
- 2. [Controls working together](https://www.youtube.com/watch?v=-wORpTOL3Kg)
- </br></br>
+ 1. [Telemetry](https://www.youtube.com/watch?v=Ij3bfACrW_U) -
 This is actually the flight controller that is ran on the laptop and allows for an after market Xbox controller to operated the drone, but demonstrates that the telemetry server is working.
+ 2. [Controls working together](https://www.youtube.com/watch?v=-wORpTOL3Kg) - This is being controlled from a Xbox controller programed to control the drone through an user interface shown in the first video.
