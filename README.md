@@ -1,5 +1,5 @@
 # Drone
-Design of the drone currently is **too** bulky, and I will be redesigning it using 2x[Adafruit Feather M0 with RFM95 LoRa Radio - 900MHz - RadioFruit](https://www.adafruit.com/product/3178) (one that drives the drone and the other that send commands and receives updates from the drone)
+Design of the drone currently is **too** bulky, and should be redesigned using 2x[Adafruit Feather M0 with RFM95 LoRa Radio - 900MHz - RadioFruit](https://www.adafruit.com/product/3178) (as command and control)
 </br>
 ___
 This is a project to create a drone pretty much from scratch with a Jetson Nano as the computer reading and controlling the devices needed. </br>
